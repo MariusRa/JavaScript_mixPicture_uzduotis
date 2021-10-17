@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+  //background-color: lightblue;
+}
+#add, #mixed {
+  margin-left: 20px;
+  border: 0;
+  width: 150px;
+  background-color: #00bfff;
+  padding: 0 20px;
+  font-size: 2rem;
+  color: #ffffff;
+  border-radius: 10px;
+}
+#mixed {
+  background-color: #cdd4cf;
+}
+.pictures {
+  display: flex;
+  flex-wrap: wrap;
+  img {
+    width: 200px;
+    padding: 5px;
+  }
+}
+
+
+
